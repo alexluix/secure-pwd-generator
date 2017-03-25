@@ -1,4 +1,4 @@
-package landpro.so;
+package so.landpro.pwd;
 
 import java.security.SecureRandom;
 import java.util.Arrays;

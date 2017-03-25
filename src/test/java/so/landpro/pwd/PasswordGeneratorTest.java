@@ -1,4 +1,4 @@
-package landpro.so;
+package so.landpro.pwd;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
